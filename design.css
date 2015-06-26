@@ -48,10 +48,12 @@ margin-top:40px;
 }
 .subject
 {
-width:165px;
-height:50px;
-border:1px solid #000000;
-margin-bottom:2px;
+width: 165px;
+height: 30px;
+border: 1px solid #000;
+margin-bottom: 2px;
+overflow: hidden;
+padding: 10px 0px 10px 0px;
 }
 .column
 {
