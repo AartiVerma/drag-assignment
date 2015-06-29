@@ -48,12 +48,21 @@ margin-top:40px;
 }
 .subject
 {
+<<<<<<< HEAD
 width:165px;
 height:30px;
 border:1px solid #000000;
 margin-bottom:2px;
 overflow:hidden;
 padding:7px 0px 7px 0px;
+=======
+width: 165px;
+height: 30px;
+border: 1px solid #000;
+margin-bottom: 2px;
+overflow: hidden;
+padding: 10px 0px 10px 0px;
+>>>>>>> 5e60a0f2f2e011e5d667df78b97bd97a13b27b4b
 }
 .column
 {

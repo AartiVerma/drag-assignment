@@ -29,4 +29,8 @@ function drop(ev) {
     ev.target.appendChild(document.getElementById(data));
 	}		
 	
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5e60a0f2f2e011e5d667df78b97bd97a13b27b4b
