@@ -49,9 +49,11 @@ margin-top:40px;
 .subject
 {
 width:165px;
-height:50px;
+height:30px;
 border:1px solid #000000;
 margin-bottom:2px;
+overflow:hidden;
+padding:7px 0px 7px 0px;
 }
 .column
 {
